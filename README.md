@@ -1,28 +1,25 @@
-# This is a large heading
+# Adnana Tudose
 
-## This is a smaller heading
+### Chapter 1
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+Just trying to fill this chapter with some random text.
 
-- This is
-- an unordered
-- list
+### Chapter 2
 
-1. This is
-2. an ordered
-3. list
+Three of my favourite movies are:
 
-Here is `some code` in the middle of a sentence.
+- *12 Angry Men* 
+- *The Pianist*
+- *The Schindler's List*
 
-```
-This is
-a block
-of code
-```
+### Chapter 3
 
-Here is how you make [a link](https://www.wikipedia.org/).
+The most important list:
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+1. first line
+2. second line
+3. third line
+
+### Chapter 4
+
+[Practicing adding a link](http://twitter.com)
